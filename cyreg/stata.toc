@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p cyreg Compute Campbell Yogo (2006) confidence intervals for predictability regressions Use cyreg With STATA 18
