@@ -1,5 +1,4 @@
-d 'DEA': Data envelopment analysis
+d 'cyreg': Compute Campbell Yogo (2006) confidence intervals for predictability regressions Use cyreg With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f cyreg.ado
+f cyreg.sthlp
