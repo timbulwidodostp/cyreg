@@ -3,6 +3,8 @@ Compute Campbell Yogo (2006) confidence intervals for predictability regressions
 
 Implements "Efficient tests of stock return predictability" Campbell Yogo (2006) Use cyreg With STATA 18
 
+cyreg With STATA 18
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
